@@ -13,7 +13,7 @@
 
 <h2> About Me</h2>
 
-<img align='right' src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" height="" width="300" alt="coding cat">
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 - 🤔 &nbsp; Exploring new technologies and working on Full Stack Development.
 - 🎓 &nbsp; Computer Science Engineering Student.

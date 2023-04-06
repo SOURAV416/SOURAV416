@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sourav</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Web Stack Developer</h3>
 
 
 <h2> About Me</h2>

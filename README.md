@@ -23,10 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sourav-nayek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-nayek/" height="30" width="40" /></a>
 <a href="https://twitter.com/sourav_webp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav_nayek_" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sourav.web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sourav.zip/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sourav637" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sourav638" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourav638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sourav638" height="30" width="40" /></a>
-<a href="https://leetcode.com/sourav638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sourav638/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -40,5 +40,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav416&" alt="sourav416" /></p>
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOURAV416/SOURAV416/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOURAV416/SOURAV416/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SOURAV416/SOURAV416/output/github-snake.svg" />
+</picture>
 

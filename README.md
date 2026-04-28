@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=sourav416&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">Hi 👋, I'm Sourav Nayek</h1>
-<h3 align="center">AWS Cloud & Data Engineer | CSE Graduate</h3>
+<h3 align="center">AWS Data Engineer | CSE Graduate</h3>
 
 ---
 

@@ -12,7 +12,7 @@
 <img align="right" src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" width="260" alt="coding"/>
 
 - 🎓 Computer Science Engineering graduate (CSE’24)
-- ☁️ Aspiring **AWS Cloud & Data Engineer**
+- ☁️ Aspiring **AWS Data Engineer**
 - 🧠 Strong fundamentals in **Data Structures & Algorithms**
 - 🔄 Hands-on with **ETL pipelines, data processing, and cloud services**
 - 🚀 Focused on building **real-world, production-style AWS projects**
